@@ -598,7 +598,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.5625em;
-    font-family: ingra, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+    font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
     color: rgba(29, 36, 42, .75);
     background: #fff;
     -ms-font-feature-settings: "liga";
