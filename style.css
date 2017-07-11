@@ -1318,6 +1318,7 @@ input[type=submit].button--inactive:hover {
 }
 
 .site-title a {
+    font-size: 0px;
     display: block;
     color: #e6aa50
 }
