@@ -1360,13 +1360,13 @@ input[type=submit].button--inactive:hover {
     background-repeat: no-repeat;
     background-position: 50% 0;
     background-size: fixed;
-    background-image: url(https://2017.cologne.wordcamp.org/files/2017/07/wccgn_1.jpg);
+    background-image: url(https://2017.cologne.wordcamp.org/files/2017/07/topbild.jpg);
     transition: all .15s ease
 }
 
 @media (min-width:48em) {
     .site-header {
-        background-image: url(https://2017.cologne.wordcamp.org/files/2017/07/wccgn_1.jpg);
+        background-image: url(https://2017.cologne.wordcamp.org/files/2017/07/topbild.jpg);
         background-position: 50% 50%;
         background-size: cover
     }
