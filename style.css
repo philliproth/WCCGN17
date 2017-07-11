@@ -1332,13 +1332,13 @@ input[type=submit].button--inactive:hover {
 .site-title a:before {
     display: block;
     width: 180px;
-    height: 180px;
+    height: 222.5px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1rem;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/03/logo-wceu17-symbol.png);
+    background-image: url(https://2017.cologne.wordcamp.org/files/2017/07/logo-wordcamp.png);
     background-size: 100%;
     content: ""
 }
