@@ -1359,13 +1359,13 @@ input[type=submit].button--inactive:hover {
     background-repeat: no-repeat;
     background-position: 50% 0;
     background-size: fixed;
-    background-image: url(https://2017.europe.wordcamp.org/files/2017/01/header-wceu17-hero-mobile.jpg);
+    background-image: url(https://2017.cologne.wordcamp.org/files/2017/07/wccgn_1.jpg);
     transition: all .15s ease
 }
 
 @media (min-width:48em) {
     .site-header {
-        background-image: url(https://2017.europe.wordcamp.org/files/2017/01/header-wceu17-hero-desktop.jpg);
+        background-image: url(https://2017.cologne.wordcamp.org/files/2017/07/wccgn_1.jpg);
         background-position: 50% 50%;
         background-size: cover
     }
