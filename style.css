@@ -596,7 +596,7 @@ textarea {
 }
 
 body {
-    font-size: 1em;
+    font-size: 0.875em;
     line-height: 1.5625em;
     font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
     color: rgba(29, 36, 42, .75);
