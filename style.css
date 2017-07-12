@@ -3561,7 +3561,7 @@ div.googlemaps iframe {
 
 .jetpack_subscription_widget p {
     margin: 0;
-    color: hsla(0, 0%, 100%, .8)
+    color: #000;
 }
 
 .jetpack_subscription_widget input[type=email] {
