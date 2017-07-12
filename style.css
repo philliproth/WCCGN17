@@ -3678,8 +3678,8 @@ div.googlemaps iframe {
 
 .list-social a:after {
     transform: translateX(-50%);
-    width: 3rem;
-    height: 3rem;
+    width: 2.5rem;
+    height: 2.5rem;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: 36px
