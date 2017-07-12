@@ -640,9 +640,11 @@ h4 {
     font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
     font-weight: 700;
     line-height: 1;
-    text-transform: uppercase;
-    
-    background: -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#ffce32,#ffce32);
+    text-transform: uppercase;      
+}
+
+.entry-content h2, .entry-content h3, .entry-content h4 {
+  background: -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#ffce32,#ffce32);
 	background: -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#ffce32,#ffce32);
 	background: -o-linear-gradient(#fff,#fff), -o-linear-gradient(#fff,#fff), -o-linear-gradient(#ffce32,#ffce32);
 	background: -ms-linear-gradient(#fff,#fff), -ms-linear-gradient(#fff,#fff), -ms-linear-gradient(#ffce32,#ffce32);
@@ -653,7 +655,7 @@ h4 {
 	background-repeat: no-repeat, no-repeat, repeat-x;
 	background-position: 0 98%, 100% 98%, 0 98%;
 	text-shadow: .04em 0 #fff, -.04em 0 #fff, 0 .04em #fff, 0 -.04em #fff, .07em 0 #fff, -.07em 0 #fff, .1em 0 #fff, -.1em 0 #fff, .13em 0 #fff, -.13em 0 #fff, .16em 0 #fff, -.16em 0 #fff;    
-       
+ 	
 }
 
 h1 {
