@@ -3570,7 +3570,7 @@ div.googlemaps iframe {
 
 .jetpack_subscription_widget input[type=submit] {
     width: 100%;
-    color: rgba(29, 36, 42, .75);
+    color: #fff;
     text-transform: uppercase;
     background-color: #644a28
 }
