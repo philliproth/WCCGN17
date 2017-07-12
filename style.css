@@ -644,6 +644,7 @@ h4 {
 }
 
 .entry-content h2, .entry-content h3, .entry-content h4 {
+	display:inline-block;
   background: -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#fff,#fff), -webkit-linear-gradient(#ffce32,#ffce32);
 	background: -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#fff,#fff), -moz-linear-gradient(#ffce32,#ffce32);
 	background: -o-linear-gradient(#fff,#fff), -o-linear-gradient(#fff,#fff), -o-linear-gradient(#ffce32,#ffce32);
