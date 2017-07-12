@@ -47,11 +47,11 @@
 }
 
 .cc--var-local-purple:after {
-    background-color: #614787
+    background-color: #ffce32
 }
 
 .cc--var-local-purple .cc__variable:after {
-    content: "#614787"
+    content: "#ffce32"
 }
 
 .cc--var-color-text:after {
@@ -135,11 +135,11 @@
 }
 
 .cc--var-color-link-alt:after {
-    background-color: #614787
+    background-color: #ffce32
 }
 
 .cc--var-color-link-alt .cc__variable:after {
-    content: "#614787"
+    content: "#ffce32"
 }
 
 .cc--var-color-link-alt-focus:after {
@@ -1800,7 +1800,7 @@ input[type=submit].button--inactive:hover {
     background-image: url(https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png);
     background-position: 50%;
     background-repeat: no-repeat;
-    background-color: #614787;
+    background-color: #ffce32;
     background-size: 40px;
     border-radius: 50%;
     transition: all .1s ease
@@ -1815,7 +1815,7 @@ input[type=submit].button--inactive:hover {
     margin-bottom: -1.875rem;
     width: 1.875rem;
     height: 6.25rem;
-    background: #614787;
+    background: #ffce32;
     transition: all .1s ease;
     content: ""
 }
@@ -1909,7 +1909,7 @@ input[type=submit].button--inactive:hover {
 }
 
 .entry-meta a {
-    color: #614787
+    color: #ffce32
 }
 
 .entry-meta a:active,
@@ -1943,7 +1943,7 @@ input[type=submit].button--inactive:hover {
 }
 
 .entry-footer a {
-    color: #614787
+    color: #ffce32
 }
 
 .entry-footer a:active,
@@ -3664,7 +3664,7 @@ div.googlemaps iframe {
     display: block;
     width: 2.25rem;
     height: 2.25rem;
-    border: 6px double #614787;
+    border: 6px double #ffce32;
     transition: all .1s ease
 }
 
@@ -3690,7 +3690,7 @@ div.googlemaps iframe {
 .list-social a:hover {
     text-decoration: none;
     color: hsla(0, 0%, 100%, .9);
-    background-color: #614787
+    background-color: #ffce32
 }
 
 .list-social a:active:before,
