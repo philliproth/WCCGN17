@@ -1826,7 +1826,7 @@ input[type=submit].button--inactive:hover {
 .site-info-network:focus:after,
 .site-info-network:hover,
 .site-info-network:hover:after {
-    background-color: #57407a
+    background-color: #644a28;
 }
 
 #primary {
