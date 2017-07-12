@@ -39,11 +39,11 @@
 }
 
 .cc--var-local-copper:after {
-    background-color: #c96
+    background-color: #644a28
 }
 
 .cc--var-local-copper .cc__variable:after {
-    content: "#c96"
+    content: "#644a28"
 }
 
 .cc--var-local-purple:after {
@@ -103,11 +103,11 @@
 }
 
 .cc--var-color-link:after {
-    background-color: #c96
+    background-color: #644a28
 }
 
 .cc--var-color-link .cc__variable:after {
-    content: "#c96"
+    content: "#644a28"
 }
 
 .cc--var-color-link-focus:after {
@@ -263,11 +263,11 @@
 }
 
 .cc--var-color-border-strong:after {
-    background-color: #c96
+    background-color: #644a28
 }
 
 .cc--var-color-border-strong .cc__variable:after {
-    content: "#c96"
+    content: "#644a28"
 }
 
 .cc--var-color-message-default:after {
@@ -351,11 +351,11 @@
 }
 
 .cc--var-color-input-checkbox-active:after {
-    background-color: #c96
+    background-color: #644a28
 }
 
 .cc--var-color-input-checkbox-active .cc__variable:after {
-    content: "#c96"
+    content: "#644a28"
 }
 
 .cc--var-color-input-radio:after {
@@ -367,11 +367,11 @@
 }
 
 .cc--var-color-input-radio-active:after {
-    background-color: #c96
+    background-color: #644a28
 }
 
 .cc--var-color-input-radio-active .cc__variable:after {
-    content: "#c96"
+    content: "#644a28"
 }
 
 
@@ -641,7 +641,7 @@ h4 {
 
 h1 {
     font-size: 2.44141em;
-    color: #c96
+    color: #644a28
 }
 
 h2 {
@@ -778,7 +778,7 @@ select {
 }
 
 a {
-    color: #c96;
+    color: #644a28;
     text-decoration: none;
     transition: all .15s ease
 }
@@ -1114,7 +1114,7 @@ input[type=submit] {
     position: relative;
     display: inline-block;
     padding: .4375rem 1rem;
-    border: 1px solid #c96;
+    border: 1px solid #644a28;
     font-size: 1em;
     line-height: 1.5625em;
     text-align: center;
@@ -1122,7 +1122,7 @@ input[type=submit] {
     font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
     font-weight: 700;
     text-decoration: none;
-    background-color: #c96;
+    background-color: #644a28;
     border-radius: .1875rem;
     border-color: transparent;
     cursor: pointer;
@@ -1166,7 +1166,7 @@ input[type=button].button--primary,
 input[type=reset].button--primary,
 input[type=submit].button--primary {
     color: rgba(29, 36, 42, .75);
-    background-color: #c96
+    background-color: #644a28
 }
 
 .button.button--primary:active,
@@ -1326,7 +1326,7 @@ input[type=submit].button--inactive:hover {
 .site-title a:active,
 .site-title a:focus,
 .site-title a:hover {
-    color: #c96;
+    color: #644a28;
     text-decoration: none
 }
 
@@ -1519,7 +1519,7 @@ input[type=submit].button--inactive:hover {
 }
 
 .menu-toggle[aria-expanded=true] {
-    color: #c96
+    color: #644a28
 }
 
 .menu-toggle[aria-expanded=true]:after {
@@ -1626,7 +1626,7 @@ input[type=submit].button--inactive:hover {
 .menu-item a:focus,
 .menu-item a:hover {
     color: rgba(29, 36, 42, .9);
-    background-color: #c96
+    background-color: #644a28
 }
 
 @media (min-width:48em) {
@@ -1675,7 +1675,7 @@ input[type=submit].button--inactive:hover {
     .menu-item-has-children.focus>a,
     .menu-item-has-children:hover>a {
         color: rgba(29, 36, 42, .9);
-        background-color: #c96
+        background-color: #644a28
     }
     .menu-item-has-children.focus>a:after,
     .menu-item-has-children:hover>a:after {
@@ -1724,7 +1724,7 @@ input[type=submit].button--inactive:hover {
         left: -999em;
         z-index: 310;
         min-width: 16.25rem;
-        background-color: #c96
+        background-color: #644a28
     }
     .sub-menu .menu-item {
         width: 100%;
@@ -2251,8 +2251,8 @@ article.comment-body {
 }
 
 .tix_tickets_table {
-    border-top: 3px double #c96;
-    border-bottom: 3px double #c96;
+    border-top: 3px double #644a28;
+    border-bottom: 3px double #644a28;
     margin-bottom: 1.5rem
 }
 
@@ -2416,7 +2416,7 @@ div.googlemaps iframe {
 }
 
 .wcpt-schedule {
-    border: .25rem solid #c96;
+    border: .25rem solid #644a28;
     margin-bottom: 1.5rem;
     background-color: #fff
 }
@@ -2510,7 +2510,7 @@ div.googlemaps iframe {
     .wcpt-schedule tr {
         margin-bottom: 1rem;
         display: block;
-        border: .25rem solid #c96
+        border: .25rem solid #644a28
     }
     .wcpt-schedule .wcb-track-track-1:before,
     .wcpt-schedule .wcb-track-track-2:before,
@@ -2601,7 +2601,7 @@ div.googlemaps iframe {
 .wcb-session-wordpress-security-for-all-you-wont-believe-how-simple-it-can-be:after {
     display: inline-block;
     padding: .0625rem .375rem;
-    border: 2px solid #c96;
+    border: 2px solid #644a28;
     position: absolute;
     bottom: 1rem;
     font-size: .8em;
@@ -3483,7 +3483,7 @@ div.googlemaps iframe {
     width: 10rem;
     padding: 0;
     margin: 1.5rem auto;
-    border-top: 2px solid #c96
+    border-top: 2px solid #644a28
 }
 
 @media (min-width:48em) {
@@ -3537,7 +3537,7 @@ div.googlemaps iframe {
 }
 
 .jetpack_subscription_widget .widget-title {
-    color: #c96
+    color: #644a28
 }
 
 .jetpack_subscription_widget p {
@@ -3553,7 +3553,7 @@ div.googlemaps iframe {
     width: 100%;
     color: rgba(29, 36, 42, .75);
     text-transform: uppercase;
-    background-color: #c96
+    background-color: #644a28
 }
 
 .jetpack_subscription_widget input[type=submit]:active,
@@ -3853,7 +3853,7 @@ div.googlemaps iframe {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #c96;
+    background-color: #644a28;
     content: ""
 }
 
@@ -3878,7 +3878,7 @@ div.googlemaps iframe {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #c96;
+    background-color: #644a28;
     content: ""
 }
 
@@ -3979,7 +3979,7 @@ div.googlemaps iframe {
 }
 
 #content-widget-5 .widget-title {
-    color: #c96
+    color: #644a28
 }
 
 #content-widget-5 p {
@@ -4012,7 +4012,7 @@ div.googlemaps iframe {
     display: block;
     padding: 1rem;
     min-width: 13.75rem;
-    background-color: #c96;
+    background-color: #644a28;
     text-decoration: none;
     border-radius: .1875rem
 }
