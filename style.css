@@ -433,6 +433,10 @@ a:hover {
     outline-width: 0
 }
 
+a:visited {
+    color: #896c46;   
+}
+
 abbr[title] {
     border-bottom: none;
     text-decoration: underline;
