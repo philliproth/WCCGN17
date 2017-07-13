@@ -1644,7 +1644,7 @@ input[type=submit].button--inactive:hover {
 .menu-item a:active,
 .menu-item a:focus,
 .menu-item a:hover {
-    color: rgba(29, 36, 42, .9);
+    color: #fff;
     background-color: #644a28
 }
 
@@ -1661,8 +1661,8 @@ input[type=submit].button--inactive:hover {
 }
 
 .current-menu-item>a {
-    color: rgba(29, 36, 42, .9);
-    background-color: #e6aa50
+    color: #fff;
+    background-color: #644a28
 }
 
 .menu-item-has-children {
@@ -1674,6 +1674,10 @@ input[type=submit].button--inactive:hover {
 }
 
 @media (min-width:37.5em) {
+    .page-navigation-container ul ul {
+	 top: 70px;   
+	}
+    
     .menu-item-has-children {
         background-color: transparent
     }
@@ -1693,7 +1697,7 @@ input[type=submit].button--inactive:hover {
     }
     .menu-item-has-children.focus>a,
     .menu-item-has-children:hover>a {
-        color: rgba(29, 36, 42, .9);
+        color: #fff;
         background-color: #644a28
     }
     .menu-item-has-children.focus>a:after,
