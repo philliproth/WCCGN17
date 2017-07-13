@@ -3717,8 +3717,8 @@ div.googlemaps iframe {
 .list-social a:active:after,
 .list-social a:focus:after,
 .list-social a:hover:after {
-    background-color: #654a25;
-    border-color: #654a25
+    background-color: #fff;
+    border-color: #fff
 }
 
 .list-social .social-twitter a:after {
