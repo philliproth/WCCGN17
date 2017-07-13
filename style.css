@@ -816,20 +816,20 @@ a:active {
 p {
     margin-top: 0;
     margin-bottom: 1.5rem;
-    font-size: 0.895em;
+    font-size: 18px;
     line-height: 1.5625em;
     color: #000;
 }
 
 @media (min-width:37.5em) {
     p {
-        line-height: 1.5625em
+        line-height: 31px
     }
 }
 
 @media (min-width:48em) {
     p {
-        line-height: 1.5625em
+        line-height: 31px
     }
 }
 
