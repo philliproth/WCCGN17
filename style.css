@@ -1137,7 +1137,7 @@ input[type=submit] {
     font-size: 1em;
     line-height: 1.5625em;
     text-align: center;
-    color: rgba(29, 36, 42, .75);
+    color: #fff;
     font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
     font-weight: 700;
     text-decoration: none;
