@@ -3675,10 +3675,11 @@ div.googlemaps iframe {
 .list-social a:before {
     transform: translateX(-50%) rotate(45deg);
     display: block;
-    width: 2.25rem;
-    height: 2.25rem;
+    width: 3rem;
+    height: 3rem;
     border: 6px double #ffce32;
-    transition: all .1s ease
+    border-radius: 50%;
+    transition: all .1s ease;
 }
 
 .list-social a:after,
@@ -3691,8 +3692,8 @@ div.googlemaps iframe {
 
 .list-social a:after {
     transform: translateX(-50%);
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 3rem;
+    height: 3rem;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: 36px
@@ -3709,8 +3710,15 @@ div.googlemaps iframe {
 .list-social a:active:before,
 .list-social a:focus:before,
 .list-social a:hover:before {
-    background-color: #c0b5cf;
-    border-color: #c0b5cf
+    background-color: #654a25;
+    border-color: #654a25
+}
+
+.list-social a:active:after,
+.list-social a:focus:after,
+.list-social a:hover:after {
+    background-color: #654a25;
+    border-color: #654a25
 }
 
 .list-social .social-twitter a:after {
