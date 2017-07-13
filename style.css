@@ -1727,6 +1727,7 @@ input[type=submit].button--inactive:hover {
 
 @media (max-width:37.4375em) {
     .sub-menu a {
+	color: #fff;
         padding-left: 2.5rem;
         background-image: url(https://2017.europe.wordcamp.org/files/2017/01/decoration-bullet-color.png);
         background-repeat: no-repeat;
@@ -1757,7 +1758,7 @@ input[type=submit].button--inactive:hover {
     }
     .sub-menu a {
         padding: .625rem 1rem;
-        color: rgba(29, 36, 42, .75)
+        color: #fff
     }
 }
 
@@ -1771,7 +1772,8 @@ input[type=submit].button--inactive:hover {
 @media (min-width:62em) {
     .sub-menu a {
         padding-left: 2rem;
-        padding-right: 2rem
+        padding-right: 2rem;
+	    color: #fff
     }
 }
 
