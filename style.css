@@ -1646,6 +1646,7 @@ input[type=submit].button--inactive:hover {
 .menu-item a:hover {
     color: #fff;
     background-color: #644a28
+	    border-top: 2px #ffcf0b solid;
 }
 
 @media (min-width:48em) {
