@@ -1,7 +1,3 @@
-.jetpack_subscription_widget {
-    text-align: left;
-}
-
 .cc--var-local-thunder:after {
     background-color: #2d282d
 }
@@ -3572,7 +3568,7 @@ div.googlemaps iframe {
 }
 
 .jetpack_subscription_widget {
-    text-align: center
+    text-align: left
 }
 
 .jetpack_subscription_widget:before {
