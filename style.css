@@ -1520,7 +1520,7 @@ input[type=submit].button--inactive:hover {
 .menu-toggle:focus,
 .menu-toggle:hover {
     color: #e6aa50;
-    background-color: rgba(45, 40, 45, .9)
+    background-color: #000;
 }
 
 .menu-toggle:before {
@@ -1625,7 +1625,8 @@ input[type=submit].button--inactive:hover {
     font-size: 1em;
     text-transform: uppercase;
     font-weight: 700;
-    text-align: left
+    text-align: left;
+	width: 100%;
 }
 
 @media (min-width:37.5em) {
@@ -1635,7 +1636,8 @@ input[type=submit].button--inactive:hover {
         font-size: 18px;
         font-size: 1.125rem;
         line-height: 1.33333em;
-        text-align: center
+        text-align: center;
+	    width: auto;
     }
 }
 
