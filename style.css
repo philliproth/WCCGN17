@@ -5,6 +5,9 @@
 }
 
 @media all and (max-width: 600px) {
+	.main-navigation {
+    background-color: #000;
+}
 
 .page-navigation-container ul ul {
     float: none;
