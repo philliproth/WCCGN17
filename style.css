@@ -1644,7 +1644,8 @@ input[type=submit].button--inactive:hover {
     color: #e6aa50;
     padding: .5rem 1rem;
     text-decoration: none;
-    transition: all .1s ease
+    transition: all .1s ease;
+	border-top: 2px #e6aa50 solid;
 }
 
 .menu-item a.focus,
@@ -1652,8 +1653,8 @@ input[type=submit].button--inactive:hover {
 .menu-item a:focus,
 .menu-item a:hover {
     color: #fff;
-    background-color: #644a28
-	    border-top: 2px #ffcf0b solid;
+    background-color: #644a28;
+    border-top: 2px #ffcf0b solid;
 }
 
 @media (min-width:48em) {
