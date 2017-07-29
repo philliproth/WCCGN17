@@ -9,8 +9,9 @@
 .page-navigation-container ul ul {
     float: none;
     position: relative;
-    left: 20px;
+    left: 0px;
 width: 100%;
+	margin-bottom: 30px;
 }	
 }
 
