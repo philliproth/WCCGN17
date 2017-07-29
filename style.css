@@ -4,6 +4,16 @@
 	color: #000;
 }
 
+@media all and (max-width: 600px) {
+
+.page-navigation-container ul ul {
+    float: none;
+    position: relative;
+    left: 20px;
+width: 100%;
+}	
+}
+
 
 .cc--var-local-thunder:after {
     background-color: #2d282d
