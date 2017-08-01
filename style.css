@@ -1661,6 +1661,9 @@ input[type=submit].button--inactive:hover {
     .menu {
         display: inline-block
     }
+	.page-navigation-container ul {
+    display: inline-block;
+	}
 }
 
 @media (max-width:37.4375em) {
