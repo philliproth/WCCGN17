@@ -1664,6 +1664,10 @@ input[type=submit].button--inactive:hover {
 	.page-navigation-container ul {
     display: inline-block;
 	}
+	
+	.menu-hauptmenue-container {
+	text-align: center;
+	}
 }
 
 @media (max-width:37.4375em) {
