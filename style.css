@@ -1641,7 +1641,7 @@ input[type=submit].button--inactive:hover {
     margin: 0;
     display: block;
     font-family: 'Raleway', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-    font-size: 1em;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     text-align: left;
@@ -1652,8 +1652,7 @@ input[type=submit].button--inactive:hover {
     .menu-item {
         margin: 0 .0625rem;
         display: inline-block;
-        font-size: 18px;
-        font-size: 1.125rem;
+        font-size: 16px;
         line-height: 1.33333em;
         text-align: center;
 	    width: auto;
@@ -1680,13 +1679,13 @@ input[type=submit].button--inactive:hover {
 
 @media (min-width:48em) {
     .menu-item a {
-        padding: 1rem 1.5rem
+        padding:  .5rem 1rem;
     }
 }
 
 @media (min-width:62em) {
     .menu-item a {
-        padding: 1.5rem 2rem
+        padding:  .5rem 1rem;
     }
 }
 
