@@ -13,13 +13,14 @@
     float: none;
     position: relative;
     left: 0px;
-width: 100%;
-	margin-bottom: 30px;
-}
-	.page-navigation-container li {
-    float: none;
+    top:0px;
+    width: 100%;
+    margin-bottom: 30px;
 }
 	
+.page-navigation-container li {
+    float: none;
+}
 	
 }
 
