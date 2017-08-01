@@ -1677,7 +1677,7 @@ input[type=submit].button--inactive:hover {
     border-top: 2px #ffcf0b solid;
 }
 
-@media (min-width:48em) {
+@media (min-width:50em) {
     .menu-item a {
         padding:  1rem 1.5rem;
     }
