@@ -1710,7 +1710,7 @@ input[type=submit].button--inactive:hover {
 
 @media (min-width:37.5em) {
     .page-navigation-container ul ul {
-	 top: 55px;   
+	 top: 39px;   
 	}
     
     .menu-item-has-children {
