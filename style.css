@@ -1,3 +1,22 @@
+
+.wcorg-sponsor-description img {
+    border: none;
+}
+.wcorg-sponsor-description img {
+    display: block;
+    margin: 0 0 20px;
+}
+.wcorg-sponsor-description img {
+    max-width: 320px;
+}
+.wcorg-sponsors img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 150px;
+}
+
+
 th, td {
     border: 1px solid #ccc;
     padding: 4px 11px;
