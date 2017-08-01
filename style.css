@@ -1665,7 +1665,8 @@ input[type=submit].button--inactive:hover {
     padding: .5rem 1rem;
     text-decoration: none;
     transition: all .1s ease;
-	border-top: 2px #e6aa50 solid;
+	border-top: 1px #555 solid;
+	
 }
 
 .menu-item a.focus,
@@ -1674,12 +1675,33 @@ input[type=submit].button--inactive:hover {
 .menu-item a:hover {
     color: #fff;
     background-color: #644a28;
-    border-top: 2px #ffcf0b solid;
+	border-top: 1px #555 solid;
 }
 
+.menu-item-has-children a {
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+
 @media (min-width: 37.5em) {
+	
+	.menu-item a.focus,
+.menu-item a:active,
+.menu-item a:focus,
+.menu-item a:hover {
+    color: #fff;
+    background-color: #644a28;
+	border-top: 2px #e6aa50 solid;
+}
+	
+	.menu-item-has-children a {
+    padding:  .5rem .5rem;
+}
+	
 .menu-item a {
         padding:  .5rem .5rem;
+	border-top: 2px #e6aa50 solid;
     }	
 }
 
