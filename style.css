@@ -5,6 +5,10 @@
     	opacity: .6;
 }
 
+.socialbm img.google {
+    width: 40.5px;
+}
+
 .entry-content li {
 	line-height: 31px;
 	font-size: 18px;
