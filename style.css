@@ -1682,8 +1682,8 @@ input[type=submit].button--inactive:hover {
     padding: .5rem 1rem;
     text-decoration: none;
     transition: all .1s ease;
-	border-top: 1px #555 solid;
-	
+    border-top: 1px #555 solid;
+    margin-left: -1px;	
 }
 
 .menu-item a.focus,
