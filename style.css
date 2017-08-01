@@ -1731,11 +1731,6 @@ input[type=submit].button--inactive:hover {
     }
 }
 
-.current-menu-item>a {
-    color: #fff;
-    background-color: #644a28
-}
-
 .menu-item-has-children {
     background-color: #000;
 }
