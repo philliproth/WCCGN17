@@ -1679,13 +1679,13 @@ input[type=submit].button--inactive:hover {
 
 @media (min-width:48em) {
     .menu-item a {
-        padding:  .5rem 1rem;
+        padding:  1rem 1.5rem;
     }
 }
 
 @media (min-width:62em) {
     .menu-item a {
-        padding:  .5rem 1rem;
+        padding:  1.5rem 2rem;
     }
 }
 
