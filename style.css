@@ -1773,6 +1773,10 @@ input[type=submit].button--inactive:hover {
     font-family: 'Merriweather', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif
 }
 
+.page-navigation-container ul ul a {
+	width: 100%;
+}
+
 @media (max-width:37.4375em) {
     .sub-menu a {
 	color: #fff;
