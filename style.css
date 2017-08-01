@@ -1,6 +1,8 @@
 .socialbm img {
 	width: 32px;
 	height: 32px;
+	margin-right: 10px;
+    	opacity: .6;
 }
 
 .entry-content li {
