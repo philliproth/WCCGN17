@@ -1,3 +1,8 @@
+.socialbm img {
+	width: 32px;
+	height: 32px;
+}
+
 .entry-content li {
 	line-height: 31px;
 	font-size: 18px;
