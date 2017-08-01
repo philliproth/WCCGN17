@@ -1683,8 +1683,22 @@ input[type=submit].button--inactive:hover {
     padding-bottom: 0px;
 }
 
+.current-menu-item>a {
+    color: #fff;
+    background-color: #000;
+}
+
+.menu-item-has-children {
+    background-color: #000;
+}
+
 
 @media (min-width: 37.5em) {
+	
+.current-menu-item>a {
+    color: #fff;
+    background-color: #644a28;
+}
 	
 	.menu-item a.focus,
 .menu-item a:active,
@@ -1695,7 +1709,7 @@ input[type=submit].button--inactive:hover {
 	border-top: 2px #e6aa50 solid;
 }
 	
-	.menu-item-has-children a {
+.menu-item-has-children a {
     padding:  .5rem .5rem;
 }
 	
@@ -1723,7 +1737,7 @@ input[type=submit].button--inactive:hover {
 }
 
 .menu-item-has-children {
-    background-color: rgba(45, 40, 45, .6)
+    background-color: #000;
 }
 
 .menu-item-has-children .dropdown-toggle {
