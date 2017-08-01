@@ -1,3 +1,15 @@
+.entry-title a {
+    text-decoration: none;
+    line-height: 55px;
+}
+
+@media all and (max-width:600px) {
+	.entry-title a {
+    line-height: 45px;
+}
+}
+
+
 .socialbm img {
 	width: 32px;
 	height: 32px;
