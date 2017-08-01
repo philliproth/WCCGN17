@@ -1580,7 +1580,7 @@ input[type=submit].button--inactive:hover {
 
 .main-navigation {
     position: relative;
-    background-color: rgba(0, 0, 0, .2)
+    background-color: #000;
 }
 
 .main-navigation:before {
@@ -1595,7 +1595,7 @@ input[type=submit].button--inactive:hover {
 
 @media (max-width:37.4375em) {
     .main-navigation {
-        background-color: #2d282d
+        background-color: #000;
     }
     .main-navigation.toggled-on .menu {
         display: block
