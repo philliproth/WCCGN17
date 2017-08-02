@@ -3422,7 +3422,7 @@ div.googlemaps iframe {
         left: 50%;
         width: 100%;
         transform: translateX(-50%);
-        border-top: 2px solid #f5ebe0;
+        border-top: 2px solid #ffce32;
         content: "";
         z-index: -1
     }
