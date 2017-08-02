@@ -3445,7 +3445,8 @@ div.googlemaps iframe {
 }
 
 .wcorg-sponsor h3 {
-	
+	width: 1px;
+	color: #fff;
 }
 
 .wcorg-sponsor a {
