@@ -3394,8 +3394,7 @@ div.googlemaps iframe {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     -ms-flex-pack: center;
-    justify-content: center;
-    text-align: center
+    text-align: left;
 }
 
 .wcorg-sponsors>div h2 {
@@ -3406,7 +3405,7 @@ div.googlemaps iframe {
     border-top: 1px solid #f5ebe0;
     font-size: 1em;
     line-height: 1.5625em;
-    text-align: center;
+    text-align: left;
     position: relative;
     z-index: 100
 }
@@ -3445,9 +3444,8 @@ div.googlemaps iframe {
     max-height: 8.75rem
 }
 
-.wcorg-sponsor .wcorg-sponsor-description p,
 .wcorg-sponsor h3 {
-    display: none
+	
 }
 
 .wcorg-sponsor a {
@@ -3488,7 +3486,7 @@ div.googlemaps iframe {
         padding: 1rem
     }
     .wcorg-sponsor img {
-        max-height: 12.5rem
+        max-height: 7rem
     }
 }
 
