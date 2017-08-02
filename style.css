@@ -3405,7 +3405,7 @@ div.googlemaps iframe {
     border-top: 1px solid #f5ebe0;
     font-size: 1em;
     line-height: 1.5625em;
-    text-align: left;
+    text-align: center;
     position: relative;
     z-index: 100
 }
@@ -3422,7 +3422,7 @@ div.googlemaps iframe {
         left: 50%;
         width: 100%;
         transform: translateX(-50%);
-        border-top: 1px solid #f5ebe0;
+        border-top: 2px solid #f5ebe0;
         content: "";
         z-index: -1
     }
