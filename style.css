@@ -3448,6 +3448,8 @@ div.googlemaps iframe {
 	width: 1px;
 	color: #fff;
 	border:none;
+	height: 1px;
+        font-size: 1px;
 }
 
 .wcorg-sponsor a {
