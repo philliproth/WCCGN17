@@ -15,6 +15,10 @@ th, td {
     border-left: none;
 }
 
+#tix th:last-child, #tix td:last-child {
+    border-right: none;
+}
+
 .entry-title a {
     text-decoration: none;
     line-height: 55px;
