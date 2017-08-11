@@ -10,6 +10,10 @@ th, td {
     vertical-align: middle;
 }
 
+#tix input {
+	width: 235px;
+}
+
 #tix th {
 	font-family: "Raleway", sans-serif;
 	font-size: 18px;
