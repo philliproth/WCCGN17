@@ -45,6 +45,18 @@ th, td {
     word-break: break-word;
 }
 
+@media all and (max-width:740px) {
+	#tix th, #tix td {
+    word-break: break-word;
+}
+.tix-left, .tix-right  {
+    width: 100%;
+	display: inline-block;
+	text-align: left;
+}
+	
+}
+
 
 
 #tix th:last-child, #tix td:last-child {
