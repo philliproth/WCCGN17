@@ -10,8 +10,12 @@ th, td {
     vertical-align: middle;
 }
 
-#tix input {
+#tix input, #tix textarea {
 	width: 235px;
+}
+
+#tix textarea {
+	height: 235px;
 }
 
 #tix th {
