@@ -10,6 +10,11 @@ th, td {
     vertical-align: middle;
 }
 
+#tix th, #tix td {
+    padding-right: 5px !important;
+    border-left: none;
+}
+
 .entry-title a {
     text-decoration: none;
     line-height: 55px;
