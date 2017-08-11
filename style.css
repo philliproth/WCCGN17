@@ -2,6 +2,10 @@
     display: none;
 }
 
+.tix-ticket-excerpt {
+    white-space: pre-line;
+}
+
 th, td {
     border: 1px solid #ccc;
     padding: 4px 11px;
