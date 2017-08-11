@@ -10,6 +10,10 @@ th, td {
     vertical-align: middle;
 }
 
+.tix-attendee-form td:first-child .tix-attendee-form th:first-child{
+	width: 250px;
+}
+
 #tix input, #tix textarea {
 	width: 235px;
 }
