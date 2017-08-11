@@ -46,7 +46,13 @@ th, td {
 }
 
 @media all and (max-width:740px) {
-.tix-left, .tix-right {
+.tix-left {
+    width: 100%;
+	display: inline-block;
+	text-align: left;
+}
+	
+	.tix-right {
     width: 100%;
 	display: inline-block;
 	text-align: left;
