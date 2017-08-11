@@ -10,6 +10,10 @@ th, td {
     vertical-align: middle;
 }
 
+.tix_payment_method {
+ margin-bootm: 20px;	
+}
+
 #tix input, #tix textarea {
 	width: 235px;
 }
