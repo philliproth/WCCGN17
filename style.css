@@ -13,6 +13,7 @@ th, td {
 .tix-submit select {
  margin-bottom: 20px !important;
 	width: 235px !important;
+	display: inline-block;
 }
 
 #tix input, #tix textarea {
