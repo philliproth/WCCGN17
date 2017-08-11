@@ -42,6 +42,7 @@ th, td {
     padding-right: 5px !important;
     border-left: none;
 	border-right: none;
+    word-break: break-word;
 }
 
 #tix th:last-child, #tix td:last-child {
