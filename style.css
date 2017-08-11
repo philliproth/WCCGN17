@@ -50,6 +50,10 @@ th, td {
 		width: 100%;
 		text-align: left;
 		display: inline-block;
+		padding: 10px 0px;
+}
+	#tix input[type='checkbox'] {
+	margin-left: 0px;
 }
 	
 }
