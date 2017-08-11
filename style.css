@@ -49,11 +49,7 @@ th, td {
     word-break: break-word;
 		width: 100%;
 		text-align: left;
-}
-.tix-left, .tix-right  {
-    
-	display: inline-block;
-	
+		display: inline-block;
 }
 	
 }
