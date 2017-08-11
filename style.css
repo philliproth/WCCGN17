@@ -11,7 +11,8 @@ th, td {
 }
 
 .tix-submit select {
- margin-bootm: 20px;	
+ margin-bottom: 20px !important;
+	width: 235px !important;
 }
 
 #tix input, #tix textarea {
