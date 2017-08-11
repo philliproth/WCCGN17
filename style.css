@@ -1232,12 +1232,6 @@ pre code {
     position: relative
 }
 
-@media all and (max-width: 740px) {
-.page-slug-tickets .site {
-	overflow: scroll;	
-}
-}
-
 .nav {
     list-style: none;
     margin: 0;
