@@ -41,8 +41,16 @@ th, td {
 #tix th, #tix td {
     padding-right: 5px !important;
     border-left: none;
-	border-right: none;
+     border-right: none;
     word-break: break-word;
+}
+
+@media all and (max-width:740px) {
+#tix th, #tix td {
+    width: 100%;
+	display: inline-block;
+	text-align: left;
+}	
 }
 
 #tix th:last-child, #tix td:last-child {
