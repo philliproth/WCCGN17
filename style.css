@@ -42,7 +42,6 @@ th, td {
     padding-right: 5px !important;
     border-left: none;
      border-right: none;
-    word-break: break-word;
 }
 
 @media all and (max-width:740px) {
