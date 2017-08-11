@@ -55,6 +55,9 @@ th, td {
 	#tix input[type='checkbox'] {
 	margin-left: 0px;
 }
+	#tix input, #tix textarea {
+	width: 100%;
+}
 	
 }
 
