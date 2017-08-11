@@ -10,12 +10,12 @@ th, td {
     vertical-align: middle;
 }
 
-.tix-attendee-form td:last-child{
-	min-width: 300px;
-}
-
 #tix input, #tix textarea {
 	width: 235px;
+}
+
+#tix input[type='checkbox'] {
+	width: 20px;
 }
 
 #tix textarea {
