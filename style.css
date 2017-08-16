@@ -1,3 +1,8 @@
+#tix-coupon-container input[type=submit] {
+    width: 12.5rem;
+}
+
+
 .single .byline, .group-blog .byline {
     display: none;
 }
