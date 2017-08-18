@@ -1,3 +1,9 @@
+.badge {
+	width: 300px;
+	height: 300px;
+	float:left;
+}
+
 .single .byline, .group-blog .byline {
     display: none;
 }
