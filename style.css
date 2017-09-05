@@ -13,6 +13,11 @@
     white-space: pre-line;
 }
 
+.entry-content table {
+	display: block;
+	overflow-x: scroll;
+}
+
 th, td {
     border: 1px solid #ccc;
     padding: 4px 11px;
