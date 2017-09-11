@@ -70,7 +70,7 @@ th, td {
 	#tix input, #tix textarea {
 	width: 100%;
 }
-	.tix-column-remaining, .tix-column-quantity {
+	.tix-column-remaining {
 		display:none !important;
 	}
 	
