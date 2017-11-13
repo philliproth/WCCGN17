@@ -4299,7 +4299,7 @@ text-align: center;
 
 .nav-anchor a,
 .nav-anchor a:active {
-    color: rgba(29, 36, 42, .9)
+    color: #fff;
 }
 
 .nav-anchor a:focus,
