@@ -4172,7 +4172,8 @@ div.googlemaps iframe {
 }
 
 .page-template-page-day-of #content-widgets .widget .widget-title {
-    font-size: 1.95312em
+    font-size: 1.95312em;
+	text-align: center;
 }
 
 .page-template-page-day-of #content-widgets .widget .widget h2 {
@@ -4212,7 +4213,8 @@ text-align: center;
 }
 
 .page-template-page-day-of #content-widget-1 .widget:first-child p {
-    font-size: 1.25em
+    font-size: 1.25em;
+	text-align: center;
 }
 
 .content-widgets-block {
