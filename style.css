@@ -4158,6 +4158,10 @@ div.googlemaps iframe {
     display: none
 }
 
+.page-template-page-day-of #text-4 p, .page-template-page-day-of #text-3 p {
+	text-align: center;	
+}
+
 .page-template-page-day-of #content-widgets .widget {
     border-top: 1px solid #f5ebe0;
     background: none!important
