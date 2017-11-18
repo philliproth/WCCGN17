@@ -2768,13 +2768,16 @@ div.googlemaps iframe {
         background-color: #f5ebe0!important
     }
     .wcpt-schedule .wcb-track-track-1:before {
-        content: "Track 1"
+        content: "Raum 1"
     }
     .wcpt-schedule .wcb-track-track-2:before {
-        content: "Track 2"
+        content: "Raum 2"
     }
     .wcpt-schedule .wcb-track-track-3:before {
-        content: "Track 3"
+        content: "Raum 3"
+    }
+	.wcpt-schedule .wcb-track-track-4:before {
+        content: "Raum 4"
     }
     .wcpt-schedule .wcpt-session-type-custom:before {
         display: none;
