@@ -2758,7 +2758,8 @@ div.googlemaps iframe {
     }
     .wcpt-schedule .wcb-track-track-1:before,
     .wcpt-schedule .wcb-track-track-2:before,
-    .wcpt-schedule .wcb-track-track-3:before {
+    .wcpt-schedule .wcb-track-track-3:before,
+	.wcpt-schedule .wcb-track-track-4:before{
         display: block;
         padding: .5rem 1rem;
         margin: -.5rem -1rem .5rem;
